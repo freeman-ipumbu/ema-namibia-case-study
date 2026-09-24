@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">E.M.A. Namibia</title>
+  <desc id="desc">A circular emergency beacon with a medical cross, compass points and pulse</desc>
+  <circle cx="50" cy="50" r="48" fill="#061827" stroke="#f8df3e" stroke-width="4"/>
+  <path fill="#138ac7" d="M50 8l11 22 25 6-18 18 5 26-23-12-23 12 5-26-18-18 25-6z"/>
+  <path fill="#f8df3e" d="M42 27h16v15h15v16H58v15H42V58H27V42h15z"/>
+  <path fill="none" stroke="#ed4c47" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M17 56h18l5-11 8 22 7-17 5 6h23"/>
+  <circle cx="50" cy="50" r="4" fill="#fff"/>
+</svg>
+
