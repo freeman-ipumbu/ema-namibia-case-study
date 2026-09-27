@@ -65,4 +65,4 @@ Mission framing was grounded in E.M.A.’s [official organisation profile](https
 
 ---
 
-<p align="center"><strong>An experience by SolarSpin Technologies.</strong></p>
+<p align="center"><strong>A Digital Experience by SolarSpin Technologies.</strong></p>
